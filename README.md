@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @besLice,
+- 👋 Hi, I’m @ForgeX sLice,
 - 👀 I’m interested in lua developing,
 - 📫 Reach me on Discord: zSmilleeyy
